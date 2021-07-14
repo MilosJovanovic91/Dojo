@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Opening Party",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Pariatur deserunt inventore voluptate illo, numquam, repellendus magni, aliquid nam explicabo provident facere veritatis ipsam sit consequatur sequi repellat enim. Quibusdam, veritatis?",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "asd",
+      "body": "asdaff",
+      "author": "yoshi",
+      "id": 3
+    },
+    {
+      "title": "asd",
+      "body": "asdaff",
+      "author": "yoshi",
+      "id": 4
+    }
+  ]
+}
